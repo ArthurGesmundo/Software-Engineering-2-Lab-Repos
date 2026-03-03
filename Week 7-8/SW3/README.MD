@@ -10,8 +10,8 @@ Offers a data allowance of 8 GB for ₱400 per month. This plan includes unlimit
 ### Implement the visitor design pattern based from the given diagram. Refer to this link.  
 
 Test your codes before the given client program:
-`
-public class TelcoPromo {
+
+```public class TelcoPromo {
   public static void main(String[] args) {
     TelcoSubscription smart = new Telco(15, 500, Smart,false);
     TelcoSubscription globe = new Telco(10, 450, Globe,true);
@@ -34,8 +34,8 @@ public class TelcoPromo {
 
                                    unli.showUnliCallsTextOffer(ditto.getTelcoName(), ditto.getUnliCallText()));
   }
-}
-`
+}```
+
 Upload your GitHub solution link here.
 
 Include the problem scenario and the UML diagram in the readMe file.
