@@ -1,4 +1,4 @@
-# visitorPatternHW
+# Visitor Pattern HW
 
 You are a software developer working on an e-commerce platform that sells various types of furniture (chairs, tables, sofas, etc.). You want to implement a functionality that calculates the shipping cost based on the furniture type and size.
 
